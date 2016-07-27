@@ -4,7 +4,7 @@ SYNOPSIS:
 	This is a Java based project that implements three Nature Inspired Algorithms:
 		1. Ant Colony Optimization algorithm (ACO).
 		2. River Formation Dynamics algorithm (RFD).
-		3. Cuckoo Search algorihtm.
+		3. Cuckoo Search algorithm.
 
 SYSTEM REQUIREMENTS:
 	1. NETBEANS
