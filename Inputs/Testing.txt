@@ -1,0 +1,79 @@
+Source File: "Greater.c"
+
+Total No. of Nodes: 16
+
+Cyclomatic Complexity: E-N+2P = 2
+
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 9 10 11 12 13 14 15 
+Path 2:   5 6 7 8 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 9 10 11 12 13 14 15 
+Path 2:   5 6 7 8 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 9 10 11 12 13 14 15 
+Path 2:   5 6 7 8 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 9 10 11 12 13 14 15 
+Path 2:   5 6 7 8 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 9 10 11 12 13 14 15 
+Path 2:   5 6 7 8 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 9 10 11 12 13 14 15 
+Path 2:   5 6 7 8 13 
+Paths Generated: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   5 9 10 11 12 13 
+Independent paths: 
+
+Path 1:   1 2 3 4 5 6 7 8 13 14 15 
+Path 2:   1 2 3 4 5 9 10 11 12 13 14 15 
+__________________________________________________________
+  |      Path       |               Strength              |   Priority  |
+__________________________________________________________
+|      Path 1    |   19.99969482421875   |        2       |
+|      Path 2    |   21.99966430664062   |        1       |
+___________________________________________________________
+
+
+Execution Time: 0 minutes 2 seconds
