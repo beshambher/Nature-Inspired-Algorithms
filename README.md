@@ -1,4 +1,5 @@
 ***************************************** MINOR PROJECT SOFTWARE ENGG. ************************************************
+
 SYNOPSIS:
 	This is a Java based project that implements three Nature Inspired Algorithms:
 		1. Ant Colony Optimization algorithm (ACO).
