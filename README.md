@@ -15,18 +15,18 @@ INSTALLATION AND CONFIGURATION:
 	2. Extract Files ando copy the entire folder in directory "Documents/NetBeansProjects/NEW_FOLDER".
 	3. Open Netbeans and click on "open new project", browse the extracted folder NEW_FOLDER and open the project.
 
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ COMPILING AND RUNNING (TEMPORARY SOLUTION) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ************************************** COMPILING AND RUNNING (TEMPORARY SOLUTION) ************************************
 
 	4. Goto "Run" option in the menu bar and click on Run Project of Simply press F6
 
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ RUNNING (PERMANENT SOLUTION) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ******************************************* RUNNING (PERMANENT SOLUTION) *********************************************
 
 	4. Now goto "Run" option in the menu bar and click on "Clean and Build Project (Shift+F11)".
 	5. Goto the project folder and open the file "Run Project.txt" in notepad.
 	6. Goto File option and save this file as "Run Project.cmd" or "Run Project.cmd" and close notepad.
 	7. Open Run Project.cmd or Run Project.cmd to run the project.
 
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  **********************************************************************************************************************
 
 RUNNING CONFIGURATIONS:
 	1. Open C++ Source Files.
